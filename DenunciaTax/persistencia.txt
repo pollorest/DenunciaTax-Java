@@ -1,0 +1,76 @@
+
+Se registra la flota Coope
+
+
+La flota Coope registra un nuevo taxi:
+Taxi de placa tcb764, conducido por martin
+
+
+Se registra la flota j
+
+
+Se registra denuncia con los siguientes detalles: 
+
+Placa: tcb764
+Motivo: Mal trato
+Descripcion: golpes
+Momento: ayer
+El taxi con esta placa lo conduce rico y pertenece a la flota Coope
+
+
+La flota Coope le envia el siguiente mensaje a la placa tcb764:
+NOO SEA MALO
+
+
+      Fin proceso
+-------------------------
+
+
+Se registra la flota COO
+
+
+La flota COO registra un nuevo taxi:
+Taxi de placa ABC, conducido por LUIS
+
+
+Se registra denuncia con los siguientes detalles: 
+
+Placa: ABC
+Motivo: Exceso de tarifa
+Descripcion: 200000
+Momento: AYER
+El taxi con esta placa lo conduce LUIS y pertenece a la flota COO
+
+
+Se registra denuncia con los siguientes detalles: 
+
+Placa: ABC
+Motivo: Mala conduccion
+Descripcion: MUY RAPIDO
+Momento: HOY
+El taxi con esta placa lo conduce LUIS y pertenece a la flota COO
+
+
+La flota COO le envia el siguiente mensaje a la placa ABC:
+PIROBO
+
+
+       Fin Proceso
+-------------------------
+
+
+Se registra la flota locas
+
+
+La flota locas registra un nuevo taxi:
+Taxi de placa abc123, conducido por pedro
+
+
+       Fin Proceso
+-------------------------
+
+
+       Fin Proceso
+-------------------------
+
+

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Propietario
+comment1.params=n
+comment1.target=Propietario(java.lang.String)
+comment1.text=Al\ crear\ un\ nuevo\ propietario\ obviamente\ tendra\ los\ atributos\ y\ metodos\ de\ la\ clase,\ \ \ \ \ \r\n\ \ \ \ uno\ de\ ellos\ es\ el\ ArrayList\ "taxisFlota"\ el\ cual\ sera\ modificable\ por\ el\ propietario\r\ny\ aumentara\ su\ tama\u00F1o\ cuando\ este\ cree\ nuevos\ objetos\ taxi\ para\ su\ flota
+comment2.params=
+comment2.target=java.lang.String\ getPropietario()
+comment3.params=s
+comment3.target=int\ buscarTaxi(java.lang.String)
+comment4.params=
+comment4.target=int\ sizeFlota()
+comment5.params=i
+comment5.target=Taxi\ getTaxi(int)
+comment6.params=t
+comment6.target=void\ addTaxi(Taxi)
+comment7.params=
+comment7.target=int\ numDenunFlota()
+comment8.params=flotasPlataforma
+comment8.target=java.util.ArrayList\ loginPropietario(java.util.ArrayList)
+numComments=9

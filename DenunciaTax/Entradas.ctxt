@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Entradas
+comment1.params=
+comment1.target=int\ pedirOpcion()
+comment2.params=
+comment2.target=java.lang.String\ capturaMensaje()
+comment3.params=flotasPlataforma
+comment3.target=void\ deseoPasajero(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ opcionMotivo()
+comment5.params=
+comment5.target=int\ opcionPropietario()
+comment6.params=
+comment6.target=java.lang.String\ otraOpcion()
+numComments=7

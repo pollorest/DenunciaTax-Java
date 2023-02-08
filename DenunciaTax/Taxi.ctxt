@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=Taxi
+comment1.params=p\ n
+comment1.target=Taxi(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ capturaNameDriver()
+comment11.params=flotasPlataforma
+comment11.target=void\ loginTaxista(java.util.ArrayList)
+comment12.params=flotasPlataforma\ prop\ tax
+comment12.target=void\ inTaxista(java.util.ArrayList,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getPlaca()
+comment3.params=
+comment3.target=java.lang.String\ getDriver()
+comment4.params=m
+comment4.target=void\ enviarMensaje(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getMensaje()
+comment6.params=d
+comment6.target=void\ addDenun(Denuncia)
+comment7.params=
+comment7.target=int\ numDenun()
+comment8.params=
+comment8.target=java.util.ArrayList\ getDenunciasTaxi()
+comment9.params=
+comment9.target=Taxi\ crearTaxi()
+comment9.text=public\ void\ printDenunTaxi(){\r\n\ \ \ \ \ \ \ \ if(denunciasTaxi.size()>0){\r\n\ \ \ \ \ \ \ \ \ \ \ \ for(int\ i\=0;i<denunciasTaxi.size();i++){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ denunciasTaxi.get(i).printDenuncia();\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else{\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("El\ taxi\ no\ cuenta\ con\ denuncias\ registradas");\r\n\ \ \ \ \ \ \ \ }\r\n}
+numComments=13

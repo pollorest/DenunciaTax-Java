@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Persistencia
+comment1.params=
+comment1.target=void\ fin()
+comment2.params=placa\ motivo\ descripcion\ momento\ flota\ taxista
+comment2.target=void\ registroDenuncia(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=flota
+comment3.target=void\ registroFlota(java.lang.String)
+comment4.params=flota\ placa\ conductor
+comment4.target=void\ registroVehiculo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=mensaje\ placa\ flota
+comment5.target=void\ mensaje(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6

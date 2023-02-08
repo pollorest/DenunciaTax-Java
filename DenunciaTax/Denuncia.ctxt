@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Denuncia
+comment1.params=
+comment1.target=void\ Denuncia()
+comment10.params=
+comment10.target=java.lang.String\ capturaDescripcion()
+comment11.params=
+comment11.target=java.lang.String\ capturaMomento()
+comment12.params=flotasPlataforma
+comment12.target=java.util.ArrayList\ crearDenuncia(java.util.ArrayList)
+comment2.params=p\ mot\ d\ moment
+comment2.target=void\ denunciar(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ printDenuncia()
+comment4.params=
+comment4.target=java.lang.String\ getPlaca()
+comment5.params=
+comment5.target=java.lang.String\ getMotivo()
+comment6.params=
+comment6.target=java.lang.String\ getMomento()
+comment7.params=
+comment7.target=java.lang.String\ getDescripcion()
+comment8.params=
+comment8.target=java.lang.String\ capturaPlaca()
+comment9.params=
+comment9.target=java.lang.String\ capturaMotivo()
+numComments=13

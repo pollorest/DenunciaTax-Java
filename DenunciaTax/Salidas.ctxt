@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Salidas
+comment1.params=placa
+comment1.target=void\ notificarTaxista(java.lang.String)
+comment2.params=flotasPlataforma\ posFlota\ posTaxi
+comment2.target=void\ printDenunTaxi(java.util.ArrayList,\ int,\ int)
+comment3.params=flotasPlataforma\ posFlota
+comment3.target=void\ printDenunFlota(java.util.ArrayList,\ int)
+comment4.params=flotasPlataforma\ posFlota\ posTaxi
+comment4.target=void\ printDenunForTax(java.util.ArrayList,\ int,\ int)
+comment5.params=flotasPlataforma\ posFlota\ posTaxi
+comment5.target=void\ printMensaje(java.util.ArrayList,\ int,\ int)
+numComments=6
